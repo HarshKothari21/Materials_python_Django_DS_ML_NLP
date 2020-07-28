@@ -17,7 +17,7 @@ CheatSheet | [Python3](cheatsheets/python3.pdf)
 Type | Source 
 --- | ---
 Course | [Applied Data Science Specialization in python @Coursera](https://www.coursera.org/specializations/data-science-python)
-Book | [Data Science from scrach with python](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/tree/master/books/Data Science/Data Science from Scratch with Python by Joel Grus.pdf)
+Book | [Data Science from scrach with python](books/Data Science/Data Science%20from%20Scratch%20with%20Python%20by%20Joel%20Grus.pdf)
 Book | [Data Analysis in python](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/tree/master/books/Data Analysis/Python for Data Analysis 2nd edition.pdf)
 Youtube Playlist | [Data Analysis in Python #Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 Youtube Playlist | [Small project tutorial to analyze data with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
