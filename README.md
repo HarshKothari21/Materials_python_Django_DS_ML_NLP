@@ -22,7 +22,7 @@ Book | [Data Analysis in python](https://github.com/HarshKothari21/Materials_pyt
 Youtube Playlist | [Data Analysis in Python #Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 Youtube Playlist | [Small project tutorial to analyze data with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 Youtube Playlist | [Plot with Python #Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
-Book | [Numeric Python and DS Apllications](books/Data Science/Numerical Python Scientific Computing and Data Science Applications.pdf)
+Book | [Numeric Python and DS Apllications](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/blob/master/books/Data%20Science/Numerical%20Python%20Scientific%20Computing%20and%20Data%20Science%20Applications.pdf)
 Blog | [Simple ways to impute missing values in Python](https://medium.com/analytics-vidhya/simple-ways-to-impute-missing-values-in-a-dataset-with-examples-33d0688231be)
 Blog | [PCA (Principle Component Analysis) in Python](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 
