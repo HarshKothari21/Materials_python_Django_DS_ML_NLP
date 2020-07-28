@@ -17,8 +17,8 @@ CheatSheet | [Python3](cheatsheets/python3.pdf)
 Type | Source 
 --- | ---
 Course | [Applied Data Science Specialization in python @Coursera](https://www.coursera.org/specializations/data-science-python)
-Book | [Data Science from scrach with python](books/Data Science/Data Science%20from%20Scratch%20with%20Python%20by%20Joel%20Grus.pdf)
-Book | [Data Analysis in python](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/tree/master/books/Data Analysis/Python for Data Analysis 2nd edition.pdf)
+Book | [Data Science from scrach](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/blob/master/books/Data%20Science/Data%20Science%20from%20Scratch%20with%20Python%20by%20Joel%20Grus.pdf)
+Book | [Data Analysis in python](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/blob/master/books/Data%20Analysis/Python%20for%20Data%20Analysis%202nd%20edition.pdf)
 Youtube Playlist | [Data Analysis in Python #Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 Youtube Playlist | [Small project tutorial to analyze data with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 Youtube Playlist | [Plot with Python #Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
@@ -30,8 +30,8 @@ Blog | [PCA (Principle Component Analysis) in Python](https://towardsdatascience
 Type | Source 
 --- | ---
 Course | [ML by Andrew Ng @Coursera](https://www.coursera.org/learn/machine-learning)
-Book | [Machine Learning with Python](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/tree/master/books/Machine Learning/Introduction to ML with Python A Guide for Data Scientists by Andreas C. Müller, Sarah Guido.pdf)
-Book | [Machine Learning with Python Cookbook by Chris Albon](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/tree/master/books/Machine Learning/ML with Python Cookbook by Chris Albon.pdf)
+Book | [Machine Learning with Python](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/blob/master/books/Machine%20Learning/Introduction%20to%20ML%20with%20Python%20A%20Guide%20for%20Data%20Scientists%20by%20Andreas%20C.%20M%C3%BCller%2C%20Sarah%20Guido.pdf)
+Book | [Machine Learning with Python Cookbook by Chris Albon](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/blob/master/books/Machine%20Learning/ML%20with%20Python%20Cookbook%20by%20Chris%20Albon.pdf)
 Blog | [Detail Guide on Regression with python](https://medium.com/swlh/a-detail-guide-on-regression-2f44c87c47d1)
 Practice Project | [Classification Problem - Titanic Competition @Kaggle](https://www.kaggle.com/c/titanic)
 Practice Project | [Regression Problem - House Price Competition @Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
