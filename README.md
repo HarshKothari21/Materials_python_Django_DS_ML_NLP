@@ -17,9 +17,12 @@ CheatSheet | [Python3](cheatsheets/python3.pdf)
 Type | Source 
 --- | ---
 Course | [Applied Data Science Specialization in python @Coursera](https://www.coursera.org/specializations/data-science-python)
+Book | [Data Science from scrach with python](books/Data Science/Data Science from Scratch with Python by Joel Grus.pdf)
+Book | [Data Analysis in python](books/Data Analysis/Python for Data Analysis 2nd edition.pdf)
 Youtube Playlist | [Data Analysis in Python #Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 Youtube Playlist | [Small project tutorial to analyze data with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 Youtube Playlist | [Plot with Python #Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+Book | [Numeric Python and DS Apllications](books/Data Science/Numerical Python Scientific Computing and Data Science Applications.pdf)
 Blog | [Simple ways to impute missing values in Python](https://medium.com/analytics-vidhya/simple-ways-to-impute-missing-values-in-a-dataset-with-examples-33d0688231be)
 Blog | [PCA (Principle Component Analysis) in Python](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 
@@ -27,6 +30,8 @@ Blog | [PCA (Principle Component Analysis) in Python](https://towardsdatascience
 Type | Source 
 --- | ---
 Course | [ML by Andrew Ng @Coursera](https://www.coursera.org/learn/machine-learning)
+Book | [Machine Learning with Python](books/Machine Learning/Introduction to ML with Python A Guide for Data Scientists by Andreas C. Müller, Sarah Guido.pdf)
+Book | [Machine Learning with Python Cookbook by Chris Albon](books/Machine Learning/ML with Python Cookbook by Chris Albon.pdf)
 Blog | [Detail Guide on Regression with python](https://medium.com/swlh/a-detail-guide-on-regression-2f44c87c47d1)
 Practice Project | [Classification Problem - Titanic Competition @Kaggle](https://www.kaggle.com/c/titanic)
 Practice Project | [Regression Problem - House Price Competition @Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
