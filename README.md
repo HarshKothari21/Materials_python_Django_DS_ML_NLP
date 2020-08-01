@@ -1,5 +1,5 @@
 # Materials For Python_Django_DS_ML_NLP
-Free materials available on internet for learning python, Data Science, Machine Learning, NLP, Deep Learning and building web application using python which includes Cheat-sheets, links, books, video links and courses.
+Free materials available on internet for learning python, Data Science, Machine Learning, NLP, Deep Learning and building web application using python which includes Cheat-sheets, links, books, video links and courses.**Want to contribute? Send a pull request or contact me on LinkedIn:** https://www.linkedin.com/in/harsh-kothari21/
 
 ## Python for Absolute Beginners
 
