@@ -28,6 +28,8 @@ Book | [Numeric Python and DS Apllications](https://github.com/HarshKothari21/Ma
 Blog | [Simple ways to impute missing values in Python](https://medium.com/analytics-vidhya/simple-ways-to-impute-missing-values-in-a-dataset-with-examples-33d0688231be)
 Blog | [PCA (Principle Component Analysis) in Python](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 Project | [Analysis on StackOverflow Developing Survey](https://github.com/HarshKothari21/StackOverflow-Developing-Survey)
+Interview | [Frequently Asked questions](https://github.com/HarshKothari21/Materials_python_Django_DS_ML_NLP/blob/master/Interview%20Preparation/data-science-interview-questions-answers.pptx)
+Interview | [Shared Experience of DS Interview](https://ailearnerhub.com/2020/07/04/data-scientist-interview-experience/)
 
 ## Machine Learning
 Type | Source 
