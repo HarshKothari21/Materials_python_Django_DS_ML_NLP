@@ -40,6 +40,7 @@ Practice Project | [Classification Problem - Titanic Competition @Kaggle](https:
 Practice Project | [Regression Problem - House Price Competition @Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 Notebook | [Learn to perform EDA and Solve Classification Problem-Titanic](https://www.kaggle.com/harshkothari21/100-accurate-results-with-eda-all-ml-models)
 Notebook | [Learn to perform EDA and Solve Regression Problem-House Price](https://www.kaggle.com/harshkothari21/beginners-notebook-all-ml-models-eda)
+Blog | [What is Gradient Descent?, what is Cost Function?, Impact of learning rate?](https://ailearnerhub.com/2020/05/06/what-is-gradient-descent/)
 
 ## NLP
 Type | Source 
